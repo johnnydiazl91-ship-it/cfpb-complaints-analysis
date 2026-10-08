@@ -2,7 +2,7 @@
 
 **Live dashboard:** [View on Tableau Public](https://public.tableau.com/views/CFPBComplaints-SameComplaintDifferentOutcome_/Dashboard1)
 
-   ![Dashboard](Dashboard.png)
+      ![Dashboard](images/Dashboard.png)
 
 ## Business question
 Which products and companies are most likely to see consumer complaints end in relief, and what explains the differences?
