@@ -1,0 +1,151 @@
+Company,Issue,complaints,relief_rate_pct
+"EQUIFAX, INC.","Advertising and marketing, including promotional offers",3,66.7
+"EQUIFAX, INC.",Applying for a mortgage or refinancing an existing mortgage,1,0.0
+"EQUIFAX, INC.",Attempts to collect debt not owed,3126,50.8
+"EQUIFAX, INC.",Can't contact lender or servicer,1,0.0
+"EQUIFAX, INC.",Charged upfront or unexpected fees,3,0.0
+"EQUIFAX, INC.",Closing your account,6,16.7
+"EQUIFAX, INC.",Communication tactics,20,45.0
+"EQUIFAX, INC.",Confusing or misleading advertising or marketing,5,40.0
+"EQUIFAX, INC.",Confusing or missing disclosures,39,56.4
+"EQUIFAX, INC.",Credit limit changed,1,0.0
+"EQUIFAX, INC.",Credit monitoring or identity theft protection services,576,40.8
+"EQUIFAX, INC.",Dealing with your lender or servicer,6,33.3
+"EQUIFAX, INC.",Didn't provide services promised,10,40.0
+"EQUIFAX, INC.",Electronic communications,13,7.7
+"EQUIFAX, INC.",False statements or representation,260,39.6
+"EQUIFAX, INC.",Fees or interest,3,66.7
+"EQUIFAX, INC.",Getting a credit card,265,48.7
+"EQUIFAX, INC.",Getting a line of credit,1,0.0
+"EQUIFAX, INC.",Getting a loan or lease,10,30.0
+"EQUIFAX, INC.",Getting the loan,1,0.0
+"EQUIFAX, INC.",Identity theft protection or other monitoring services,21,4.8
+"EQUIFAX, INC.",Improper use of your report,134032,56.4
+"EQUIFAX, INC.",Incorrect information on your report,381472,60.1
+"EQUIFAX, INC.",Managing the loan or lease,2,0.0
+"EQUIFAX, INC.",Opening an account,20,65.0
+"EQUIFAX, INC.","Other features, terms, or problems",4,25.0
+"EQUIFAX, INC.",Problem caused by your funds being low,1,0.0
+"EQUIFAX, INC.",Problem getting a card or closing an account,1,0.0
+"EQUIFAX, INC.",Problem when making payments,7,85.7
+"EQUIFAX, INC.",Problem with a company's investigation into an existing issue,100,33.0
+"EQUIFAX, INC.",Problem with a company's investigation into an existing problem,116578,58.8
+"EQUIFAX, INC.",Problem with a lender or other company charging your account,1,0.0
+"EQUIFAX, INC.",Problem with a purchase shown on your statement,5,20.0
+"EQUIFAX, INC.",Problem with customer service,5,20.0
+"EQUIFAX, INC.",Problem with fraud alerts or security freezes,1656,18.9
+"EQUIFAX, INC.",Problem with the payoff process at the end of the loan,1,100.0
+"EQUIFAX, INC.",Problems at the end of the loan or lease,1,0.0
+"EQUIFAX, INC.",Received a loan you didn't apply for,2,0.0
+"EQUIFAX, INC.",Repossession,36,50.0
+"EQUIFAX, INC.",Struggling to pay your bill,3,66.7
+"EQUIFAX, INC.",Struggling to pay your loan,3,0.0
+"EQUIFAX, INC.",Struggling to repay your loan,2,0.0
+"EQUIFAX, INC.",Threatened to contact someone or share information improperly,6,16.7
+"EQUIFAX, INC.",Took or threatened to take negative or legal action,162,36.4
+"EQUIFAX, INC.",Trouble using the card,12,8.3
+"EQUIFAX, INC.",Trouble using your card,3,33.3
+"EQUIFAX, INC.",Unable to get your credit report or credit score,3691,17.3
+"EQUIFAX, INC.",Unauthorized withdrawals or charges,2,0.0
+"EQUIFAX, INC.",Vehicle was repossessed or sold the vehicle,1,0.0
+"EQUIFAX, INC.",Written notification about debt,3904,51.5
+Experian Information Solutions Inc.,"Advertising and marketing, including promotional offers",2,0.0
+Experian Information Solutions Inc.,Applying for a mortgage or refinancing an existing mortgage,1,0.0
+Experian Information Solutions Inc.,Attempts to collect debt not owed,3009,0.2
+Experian Information Solutions Inc.,Charged fees or interest you didn't expect,4,0.0
+Experian Information Solutions Inc.,Charged upfront or unexpected fees,6,16.7
+Experian Information Solutions Inc.,Closing an account,2,50.0
+Experian Information Solutions Inc.,Closing your account,9,0.0
+Experian Information Solutions Inc.,Communication tactics,19,0.0
+Experian Information Solutions Inc.,Confusing or misleading advertising or marketing,7,0.0
+Experian Information Solutions Inc.,Confusing or missing disclosures,46,0.0
+Experian Information Solutions Inc.,Credit monitoring or identity theft protection services,638,4.2
+Experian Information Solutions Inc.,Dealing with your lender or servicer,3,0.0
+Experian Information Solutions Inc.,Didn't provide services promised,14,0.0
+Experian Information Solutions Inc.,Electronic communications,14,0.0
+Experian Information Solutions Inc.,False statements or representation,255,0.0
+Experian Information Solutions Inc.,Fees or interest,1,100.0
+Experian Information Solutions Inc.,Fraud or scam,2,0.0
+Experian Information Solutions Inc.,Getting a credit card,257,0.4
+Experian Information Solutions Inc.,Getting a line of credit,1,0.0
+Experian Information Solutions Inc.,Getting a loan or lease,8,0.0
+Experian Information Solutions Inc.,Identity theft protection or other monitoring services,23,8.7
+Experian Information Solutions Inc.,Improper use of your report,99168,0.1
+Experian Information Solutions Inc.,Incorrect information on your report,303548,0.1
+Experian Information Solutions Inc.,Issues with repayment,1,0.0
+Experian Information Solutions Inc.,Managing an account,12,0.0
+Experian Information Solutions Inc.,Managing the loan or lease,1,0.0
+Experian Information Solutions Inc.,Opening an account,22,0.0
+Experian Information Solutions Inc.,"Other features, terms, or problems",4,0.0
+Experian Information Solutions Inc.,Other transaction problem,2,0.0
+Experian Information Solutions Inc.,Problem caused by your funds being low,2,0.0
+Experian Information Solutions Inc.,Problem when making payments,7,0.0
+Experian Information Solutions Inc.,Problem with a company's investigation into an existing issue,98,0.0
+Experian Information Solutions Inc.,Problem with a company's investigation into an existing problem,98455,0.1
+Experian Information Solutions Inc.,Problem with a lender or other company charging your account,3,33.3
+Experian Information Solutions Inc.,Problem with a purchase shown on your statement,13,7.7
+Experian Information Solutions Inc.,Problem with customer service,19,0.0
+Experian Information Solutions Inc.,Problem with fraud alerts or security freezes,1428,3.8
+Experian Information Solutions Inc.,Problem with the payoff process at the end of the loan,1,0.0
+Experian Information Solutions Inc.,Problems at the end of the loan or lease,1,0.0
+Experian Information Solutions Inc.,Received a loan you didn't apply for,1,0.0
+Experian Information Solutions Inc.,Repossession,21,0.0
+Experian Information Solutions Inc.,Struggling to pay your bill,4,0.0
+Experian Information Solutions Inc.,Struggling to pay your loan,2,0.0
+Experian Information Solutions Inc.,Struggling to repay your loan,1,0.0
+Experian Information Solutions Inc.,Threatened to contact someone or share information improperly,9,0.0
+Experian Information Solutions Inc.,Took or threatened to take negative or legal action,173,0.0
+Experian Information Solutions Inc.,Trouble during payment process,2,0.0
+Experian Information Solutions Inc.,Unable to get your credit report or credit score,974,3.4
+Experian Information Solutions Inc.,Unauthorized transactions or other transaction problem,1,0.0
+Experian Information Solutions Inc.,Unauthorized withdrawals or charges,3,0.0
+Experian Information Solutions Inc.,Unexpected or other fees,1,0.0
+Experian Information Solutions Inc.,Written notification about debt,2313,0.0
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.","Advertising and marketing, including promotional offers",3,33.3
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Applying for a mortgage or refinancing an existing mortgage,1,0.0
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Attempts to collect debt not owed,3204,56.5
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Charged fees or interest you didn't expect,1,100.0
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Charged upfront or unexpected fees,6,83.3
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Closing an account,1,100.0
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Closing on a mortgage,1,0.0
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Closing your account,15,53.3
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Communication tactics,29,55.2
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Confusing or misleading advertising or marketing,4,75.0
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Confusing or missing disclosures,41,56.1
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Credit monitoring or identity theft protection services,648,61.3
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Dealing with your lender or servicer,7,71.4
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Didn't provide services promised,11,36.4
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Electronic communications,18,72.2
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",False statements or representation,309,65.0
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Fees or interest,2,0.0
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Fraud or scam,1,100.0
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Getting a credit card,278,62.6
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Getting a line of credit,1,0.0
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Getting a loan or lease,15,66.7
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Identity theft protection or other monitoring services,38,47.4
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Improper use of your report,134057,48.0
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Incorrect information on your report,363804,48.0
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Managing an account,1,0.0
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Managing the loan or lease,2,0.0
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Opening an account,20,55.0
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.","Other features, terms, or problems",5,60.0
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem caused by your funds being low,1,0.0
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem when making payments,4,100.0
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with a company's investigation into an existing issue,103,57.3
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with a company's investigation into an existing problem,108189,52.6
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with a purchase shown on your statement,3,66.7
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with customer service,12,33.3
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with fraud alerts or security freezes,1484,59.2
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with the payoff process at the end of the loan,1,100.0
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problems at the end of the loan or lease,2,50.0
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Received a loan you didn't apply for,1,0.0
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Repossession,38,84.2
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Struggling to pay your bill,3,66.7
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Struggling to pay your loan,2,100.0
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Struggling to repay your loan,2,100.0
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Threatened to contact someone or share information improperly,16,62.5
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Took or threatened to take negative or legal action,201,60.2
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Trouble using your card,1,100.0
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Unable to get your credit report or credit score,514,32.5
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Unauthorized withdrawals or charges,6,66.7
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Written notification about debt,3340,49.3
